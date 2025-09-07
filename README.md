@@ -1,6 +1,6 @@
 # Quantum Cryptographic Key Exchange
 
-A small project demonstrating two approaches to produce a shared key between two parties:
+A project demonstrating two approaches to produce a shared key between two parties:
 
 Task 1 — BB84 QKD prototype (simulation) using Qiskit (classical simulation or IBM backends).
 
